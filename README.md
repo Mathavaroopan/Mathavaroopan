@@ -1,4 +1,4 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://rishavchanda.io)
+[![MasterHead](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.freepik.com%2Ffree-photos-vectors%2Fweb-developer&psig=AOvVaw2tOdh2Ye3wFKeizf0miDvW&ust=1719065311931000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCICO473v7IYDFQAAAAAdAAAAABAJ)](https://rishavchanda.io)
 
 <h1 align="center">Hi 👋, I'm Mathavaroopan</h1>
 <h3 align="center">A passionate Web developer and Problem Solver</h3>
